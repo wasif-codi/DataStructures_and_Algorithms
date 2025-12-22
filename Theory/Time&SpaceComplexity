@@ -1,1 +1,16 @@
+Time and Space Complexity 
+ Asymptotic analysis => analysing No of operation as a function of input is called aysmptotic analysis
+
+======================== 
+If A1  algo takes 10^8 operations and A2 algo takes 10 operation the based on the operation we can say A2 is better algo than A1.
+
+if A1 algorithm takes 1 second time and A2 algo takes 2 second time to execute same program still we can not say which algorithm is better
+because running time depends on below factors
+1 = Logic of algorithm
+2= language like scripting languages  javascriptand python takes more time in comarison to compiled languages like java to execute the instructions
+3= Machine mack book pro always takes less time than windows i3 machine due to its processor.
+
+Hence we decide the best algorithm on the basis of no operations it doing 
+less no of operation is better than the algo takes more no of algorithm
+== Analyze the algorithm based on running time is called experimental analysis.
 
